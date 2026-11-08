@@ -1,0 +1,20 @@
+{
+  "name": "input-manager",
+  "productName": "Input Manager",
+  "version": "1.0.0",
+  "description": "Input Manager - Lock and unlock your mouse and keyboard",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^8.0.1",
+    "@electron-forge/maker-squirrel": "^8.0.1",
+    "electron": "^45.2.3"
+  }
+}
