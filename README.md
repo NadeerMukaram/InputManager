@@ -1,5 +1,9 @@
 # 🖱️ Input Manager
 
+## Screenshot 
+
+<img width="497" height="569" alt="Image" src="https://github.com/user-attachments/assets/02f458ce-302d-4a56-9421-0ef72d8428f2" />
+
 A lightweight Windows desktop app built with **Electron** that lets you selectively lock and unlock your mouse and keyboard inputs — instantly, with a single click.
 
 ## ✨ Features
